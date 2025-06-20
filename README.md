@@ -1,2 +1,2 @@
 # RetosJava_BEDUM02
-Retos del curso de Java del Modulo 2 
+Retos del del Modulo 2 del curso de Java impartido por Bedu  
